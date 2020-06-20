@@ -3,12 +3,12 @@
 </p>
 
 ## Descrição
-Como iniciar com projeto Nest.js com Docker
+ - Como iniciar com projeto Nest.js com Docker
 
 ## Para Windows
-Lembrar de instalar o WSL2 e Docker. Vejo o vídeo: https://www.youtube.com/watch?v=g4HKttouVxA
+- Lembrar de instalar o WSL2 e Docker. Vejo o vídeo: https://www.youtube.com/watch?v=g4HKttouVxA
 
-## Siga o guia rápido de instalação no github do professor luiz da Scholl of Net: https://gist.github.com/argentinaluiz/6bff167be40a2bf7a6bb879062cd25cd
+- Siga o guia rápido de instalação no github do professor luiz da Scholl of Net: https://gist.github.com/argentinaluiz/6bff167be40a2bf7a6bb879062cd25cd
 
 # Instalação
  
