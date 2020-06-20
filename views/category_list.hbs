@@ -1,0 +1,35 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+
+<body>
+  <h1>Listagem de categories</h1>
+
+  <div class="container">
+    <div class="list-group">
+      {{#forEach categories }}
+
+      <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-1">{{ name }}</h5>
+          <small>{{ created_at }}</small>
+        </div>
+        <p class="mb-1">Projeto em NestJs rodando via docker no wsl2 no windows 10 </p>
+        <small>Focado nos estudos.</small>
+      </a>
+
+      {{/forEach}}
+
+
+    </div>
+
+  </div>
+
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
